@@ -84,5 +84,5 @@
 
 아래 자료는 1학기 버전으로, 위의 현재 서비스 구성과는 다를 수 있습니다.
 
-- [서비스 시연 영상](https://www.youtube.com/watch?v=O7fhhBU1YsA)
+- [서비스 시연 영상](https://youtu.be/LQV8rDE6HOE)
 - [1학기 발표 자료 (PPTX)](FireView%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201%ED%95%99%EA%B8%B0%20%EB%B0%9C%ED%91%9C.pptx)
